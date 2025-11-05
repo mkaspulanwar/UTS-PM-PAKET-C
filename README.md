@@ -73,3 +73,29 @@ UTSLoginCompose/
 │   └── build.gradle.kts
 └── README.md
 ```
+## 🚀 Cara Menjalankan Proyek
+
+1. **Clone repository ini ke komputer lokal:**
+   ```bash
+   git clone https://github.com/<username>/UTSLoginCompose.git
+   ```
+2. Buka folder proyek di Android Studio.
+3. Pastikan sudah menyiapkan:
+    - Android SDK versi 34
+    - Kotlin versi 1.9+
+4. Klik:
+```bash
+File → Sync Project with Gradle Files
+```
+5. Jalankan aplikasi:
+    - Pilih perangkat emulator atau HP Android
+    - Tekan tombol “Run App” di Android Studio
+
+### 🔐 Login Credentials
+
+| Role      | Username | Password   |
+|------------|-----------|------------|
+| mhs      | mhs     | 123   |
+
+
+
