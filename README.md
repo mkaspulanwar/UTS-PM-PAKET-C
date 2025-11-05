@@ -5,7 +5,7 @@ Aplikasi ini menampilkan implementasi **navigasi multi-screen**, **penyimpanan d
 
 ---
 
-## 📱 Fitur Aplikasi
+## Fitur Aplikasi
 
 ### 1. Splash / Welcome Screen
 - Menampilkan logo dan nama aplikasi.
@@ -27,7 +27,7 @@ Aplikasi ini menampilkan implementasi **navigasi multi-screen**, **penyimpanan d
 
 ---
 
-## ⚙️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 | Komponen | Teknologi |
 |-----------|------------|
@@ -42,7 +42,7 @@ Aplikasi ini menampilkan implementasi **navigasi multi-screen**, **penyimpanan d
 
 ---
 
-## 🧩 Struktur Proyek
+## Struktur Proyek
 
 ```bash
 UTSLoginCompose/
@@ -73,7 +73,10 @@ UTSLoginCompose/
 │   └── build.gradle.kts
 └── README.md
 ```
-## 🚀 Cara Menjalankan Proyek
+
+---
+
+## Cara Menjalankan Proyek
 
 1. **Clone repository ini ke komputer lokal:**
    ```bash
@@ -90,12 +93,36 @@ File → Sync Project with Gradle Files
 5. Jalankan aplikasi:
     - Pilih perangkat emulator atau HP Android
     - Tekan tombol “Run App” di Android Studio
+  
+---
 
-### 🔐 Login Credentials
+### Login Credentials
 
 | Role      | Username | Password   |
 |------------|-----------|------------|
 | mhs      | mhs     | 123   |
 
+---
 
+### Pengembang
+| Nama | NIM | Program Studi | Universitas |
+|------|-----|----------------|--------------|
+| M. Kaspul Anwar | 230104040212 | Teknologi Informasi | Universitas Islam Negeri Antasari Banjarbaru |
+
+---
+
+### Nilai Komponen UTS Paket C
+| Komponen | Deskripsi | Bobot |
+|-----------|------------|--------|
+| Struktur Project | Penataan file dan folder sesuai standar Android Studio | 25% |
+| Fungsionalitas | Splash screen, form login, navigasi, dan autentikasi | 30% |
+| Tampilan UI/UX | Desain antarmuka dan pengalaman pengguna | 20% |
+| Kreativitas | Penambahan fitur icon show/hide password, logo splash | 15% |
+| Dokumentasi | README.md, preview, dan panduan penggunaan | 10% |
+
+**Total: 100%**
+
+---
+
+> 📝 *Proyek ini merupakan bagian dari penilaian UTS Paket C untuk mata kuliah Pengembangan Aplikasi Mobile.*
 
